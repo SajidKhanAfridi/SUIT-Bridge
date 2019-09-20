@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "527414979",
+    "firebase_url": "https://suit-bridge-android.firebaseio.com",
+    "project_id": "suit-bridge-android",
+    "storage_bucket": "suit-bridge-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527414979:android:7202d5eb6be00792",
+        "android_client_info": {
+          "package_name": "com.mrrobot.suitbridge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527414979-3mqndqk43lo1qlaqfae677oie7ma6b99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuCTgjJDE_2j7y6fI7dWBXUd_hWPi-CsI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

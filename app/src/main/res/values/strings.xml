@@ -1,0 +1,155 @@
+<resources>
+    <string name="app_name">Suit Bridge</string>
+    <string name="welcome_text">Suit Bridge</string>
+
+    <!-- Strings related to login -->
+    <string name="title_activity_login">Dummy Text</string>
+    <string name="email_text">Email</string>
+    <string name="password_text">Password</string>
+    <string name="confirm_password_text">Confirm Password</string>
+    <string name="username_text">User Name</string>
+    <string name="sign_in_text">Sign in</string>
+    <string name="action_sign_in_here">Sign in</string>
+    <string name="action_register">Register</string>
+    <string name="action_nextStep">Next Step</string>
+    <string name="option_for_register">New User! Register Here</string>
+    <string name="title_activity_register">Sign in</string>
+    <string name="enter_information_text">Register Here</string>
+    <string name="are_u_choice">Are you a</string>
+    <string name="student_text">Student</string>
+    <string name="teacher_text">Teacher</string>
+    <string name="prompt_msg">Type Message</string>
+    <string name="action_send">Send</string>
+    <string name="sample_message">Hello!</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">Password too short or does not match</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="plz_enter_information">Please Enter Following information</string>
+    <string name="registration_no">Registration no</string>
+    <string name="section">Section</string>
+    <string name="semester">Semester</string>
+    <string name="program">Program</string>
+    <string name="department">Department</string>
+    <string name="confirm">Confirm</string>
+    <string name="gotoClass">Goto Class</string>
+    <string name="calculateGPA">Calculate GPA</string>
+    <string name="lostOrFound">Lost or Found</string>
+    <string name="name">Name</string>
+    <string name="id">ID</string>
+
+    //Strings for sectionSpinner//
+    <string-array name="sectionSpinnerData">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+    </string-array>
+
+    //Strings for semesterSpinner//
+    <string-array name="semesterSpinnerData">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+
+    //Strings Array for Program Spinner//
+    <string-array name="programSpinner">
+        <item>Electrical Engineering</item>
+        <item>Software Engg</item>
+        <item>Computer Science</item>
+    </string-array>
+
+    //Strings for departmentSpinner //
+    <string-array name="departmentSpinnerData">
+        <item>CS</item>
+        <item>Electrical</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_calculator_main">CalculatorMain</string>
+    <string name="title_activity_class_fragment">ClassFragment</string>
+
+    //calculator strings
+    <string name="official_name">Android GPA Calculator</string>
+    <string name="icon_desc">Android GPA Calculator icon image</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_about">About</string>
+    <string name="nameLabel">Triclops Productionsâ„¢</string>
+    <string name="Version">Version 0.05</string>
+    <string name="calcButtonLabel">Calculate GPA</string>
+    <string name="gpaLabel">Your GPA is:</string>
+    <string name="class1_title">Class 1:</string>
+    <string name="class2_title">Class 2:</string>
+    <string name="class3_title">Class 3:</string>
+    <string name="class4_title">Class 4:</string>
+
+    <string-array name="gradeArray">
+        <item>A+</item>
+        <item>A</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B</item>
+        <item>B-</item>
+        <item>C+</item>
+        <item>C</item>
+        <item>C-</item>
+        <item>D+</item>
+        <item>D</item>
+        <item>D-</item>
+        <item>F</item>
+    </string-array>
+
+    //These are the string arrays for the registration no
+    //String array for bach part in regno
+    <string-array name="batchArray">
+        <item>15</item>
+        <item>16</item>
+    </string-array>
+    //String array for program part in regno
+    <string-array name="programArray">
+        <item>01</item>
+        <item>02</item>
+    </string-array>
+    //String array for section part in regno
+    <string-array name="sectionArray">
+        <item>001</item>
+        <item>002</item>
+    </string-array>
+    //String array for rollno's part in regno
+    <string-array name="rollnoArray">
+        <item>01</item>
+        <item>02</item>
+        <item>03</item>
+        <item>04</item>
+        <item>05</item>
+        <item>06</item>
+        <item>07</item>
+        <item>08</item>
+        <item>09</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+    </string-array>
+
+    //Strings from login tut's
+    <string name="register">REGISTER</string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Password</string>
+    <string name="signup_login_hint">Already have an account? Sign In</string>
+    <string name="login_signup_hint">Don\'t have an account? Sign Up</string>
+
+
+</resources>

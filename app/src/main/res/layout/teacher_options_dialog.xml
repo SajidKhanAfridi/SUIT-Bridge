@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:paddingLeft="10dp"
+            android:background="@null"
+            android:textColor="#000"
+            android:hint="Enter Class ID here..."
+            android:id="@+id/input"/>
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:paddingLeft="10dp"
+            android:background="@null"
+            android:textColor="#000"
+            android:hint="Enter Class ID here..."
+            android:id="@+id/input2"/>
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:paddingLeft="10dp"
+            android:background="@null"
+            android:textColor="#000"
+            android:hint="Enter Class ID here..."
+            android:id="@+id/input3"/>
+
+
+
+
+</LinearLayout>

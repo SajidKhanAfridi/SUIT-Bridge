@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="350dp"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#232323"
+        android:orientation="vertical"
+        android:layout_marginTop="50dp"
+        android:gravity="center_horizontal">
+        
+        <TextView
+            android:id="@+id/dialog_username_id"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="User name"
+            android:textColor="@color/White"
+            android:textStyle="bold"
+            android:textSize="24sp"
+            android:layout_marginTop="90dp"/>
+        <TextView
+            android:id="@+id/dialog_reg_id"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:text="@string/registration_no"
+            android:textColor="@color/White"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="10dp"/>
+        
+        <Button
+            android:id="@+id/dialog_massege_button_id"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/White"
+            android:text="Message"
+            android:layout_marginTop="10dp"
+            android:drawableLeft="@drawable/dialog_message_black_24dp"
+            android:drawablePadding="20dp"
+            android:textAlignment="textStart"
+            android:layout_gravity="start"
+            android:padding="18dp"/>
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:src="@drawable/ic_person"
+        android:padding="10dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        />
+
+</RelativeLayout>

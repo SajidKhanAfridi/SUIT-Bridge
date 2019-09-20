@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="colorPrimary">#3F51B5</color>-->
+    <!--<color name="colorPrimaryDark">#303F9F</color>-->
+    <color name="DarkestBlue">#113f67</color>
+    <color name="LittleDarkBlue">#34699a</color>
+    <color name="Blue">#408ab4</color>
+    <color name="Aqua">#65c6c4</color>
+    <color name="White">#ffffff</color>
+    <color name="Black">#000000</color>
+    <color name="green">#27AE60</color>
+    <color name="light_green">#50d050</color>
+    <color name="black">#000000</color>
+    
+    //Tutorial Colors
+    <color name="Matte_Black">#393939</color>
+    <color name="Other_MatteBlack">#2f2f2f</color>
+    <color name="Blueish">#52b7f8</color>
+    <color name="Backgroundfragment">#2b2b2b</color>
+
+    //Timeline Tutorial Colors
+    <color name="timelinetutorialprimary">#ffffff</color>
+    <color name="timelinetutorialprimarydark">#ffffff</color>
+    <color name="timelinetutorialcolorAccent">#d81b60</color>
+    <color name="card_bg_color">#f6f6f6</color>
+    <color name="title_text_color">#258bd6</color>
+    <color name="content_text_color">#999da4</color>
+
+    //ChatActivity tutorial colors
+    <color name="light_purple">#E8E1E7</color>
+
+    //Login activity tutorial colors
+
+        <color name="colorPrimary">#1F5BF3</color>
+        <color name="colorPrimaryDark">#0947E8</color>
+        <color name="colorAccent">#00A5FF</color>
+
+        <!--colors for modern ui-->
+        <color name="whiteTextColor">#fff</color>
+        <color name="primaryTextColor">#00a5ff</color>
+        <color name="loginBkColor">#f0f0f0</color>
+
+        <!--colros for card-->
+        <color name="whiteCardColor">#fff</color>
+
+    <color name="teachertimelinecardColor">#00a588</color>
+
+
+</resources>

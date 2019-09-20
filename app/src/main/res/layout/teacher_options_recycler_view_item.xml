@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="5dp"
+    android:background="@color/Matte_Black"
+    android:id="@+id/teacher_options_linear_layout_id"
+    android:dividerPadding="5dp">
+
+    <ImageView
+        android:layout_width="42dp"
+        android:layout_height="match_parent"
+        android:src="@drawable/ic_class_black_24dp"/>
+    <TextView
+        android:id="@+id/teacher_options_textview"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="Click to Join Class"
+        android:textColor="@color/White"
+        android:textSize="20sp"
+        android:padding="10dp"/>
+
+</LinearLayout>
